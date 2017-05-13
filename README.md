@@ -31,3 +31,6 @@
 ### Delete
 ### Edit
 ## Add/Edit Screen
+## Sign-in/Sign-out
+## Authorization
+## 
